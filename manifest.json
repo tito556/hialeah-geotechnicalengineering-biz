@@ -1,0 +1,20 @@
+{
+  "name": "Geotechnical Engineering",
+  "short_name": "Geotechnical",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1E3A8A",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Professional geotechnical services in Hialeah, USA. Soil studies, testing and technical consulting.",
+  "id": "/hialeah-4273"
+}
