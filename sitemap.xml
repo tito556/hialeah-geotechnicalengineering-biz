@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://hialeah.geotechnicalengineering.biz/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/seismic-isolation</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/anchors/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/flexible-pavement</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/atterberg-limits/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/test-pits</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/cbr-road/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/seismic-refraction</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/cpt-test/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/soft-ground-tunnels</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/deep-excavations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/footings</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/excavation-monitoring/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/masw</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/excavations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/cbr-road</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/flexible-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/excavation-monitoring</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/footings/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/retaining-walls</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/foundations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/cpt-test</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/grain-size/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/proctor-tests</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/ground-improvement/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/resistivity</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/grouting/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/stone-columns</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/in-situ-permeability/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/triaxial</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/investigation/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/mat-foundations</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/lab-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/anchors</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/laboratory/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/liquefaction</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/liquefaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/rigid-pavement</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/contact</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/mat-foundations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/seismic-microzonation</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/piles/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/slope-stability</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/proctor-tests/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/vibrocompaction</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/resistivity/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/grain-size</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/retaining-walls/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/piles</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/rigid-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/in-situ-permeability</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/road-geotechnics/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/grouting</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/sand-cone-density/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/deep-excavations</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/seismic/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/sand-cone-density</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/seismic-isolation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/atterberg-limits</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/seismic-microzonation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/spt-drilling</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/seismic-refraction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hialeah.geotechnicalengineering.biz/privacy</loc>
+    <loc>https://hialeah.geotechnicalengineering.biz/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/slope-stability/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/slopes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/soft-ground-tunnels/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/spt-drilling/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/stone-columns/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/test-pits/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hialeah.geotechnicalengineering.biz/vibrocompaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
